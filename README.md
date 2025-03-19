@@ -13,3 +13,18 @@ Client wants to create a Road Accident Dashboard for year 2021 and 2022 so they 
 - Distribution of total casualties by Road Surface
 - Relation between Casualties By Area/ Location & By Day/ Night 
 
+## STAKEHOLDERS 
+- Ministry of Transport
+- Road Transport Depaartment
+- Police Force
+- Emergency Services Department
+- Road Safety Corps
+- Transport Operators
+- Traffic Management Agencies
+- Public
+- Media
+
+# Data 
+- File Extension - .xlsx
+- No. of Rows - 307k
+- No. of fields - 21
